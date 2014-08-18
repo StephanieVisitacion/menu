@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+td
+{
+border: 1px solid black;
+text-align: center;
+font-family: Purisa;
+}
+th, td
+{
+
+text-align: center;
+font-family: Purisa;
+}
+table
+{
+border:2px solid black;
+}
+body{
+background-color: #d0e4fe;
+
+}
+
+h1{
+text-align: center;
+font-family: Courier New;
+}
+</style>
+</head>
+<body>
+<h1>
+Menu Ordered
+</h1>
+<table style="width:1200px" align = "center">
+<tr>
+	<b><th></th>
+	<th>Item</th><th>Description</th></b>
+</tr>
+<tr>
+	<td>Starter</td>
+	<td>Crab Salad</td>
+	<td>Crabmeat infused with fresh tarragon & champagne vinegar. Served on a toasted pita point, garnished with sliced radish & fresh dill.</td>
+</tr>
+<tr>
+	<td>Entree</td>
+	<td>Lemon Thyme Grilled Chicken</td>
+	<td>Grilled breast of chicken served with sauteed haricots verts.</td>
+</tr>
+
+<tr>
+	<td>Dessert</td>
+	<td>Beautiful Ohio Hickory Nut Pie</td>
+	<td></td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
+
