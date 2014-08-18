@@ -4,22 +4,24 @@
 <style>
 td
 {
-border: 1px solid black;
-text-align: center;
-font-family: Purisa;
-}
-th, td
-{
 
 text-align: center;
 font-family: Purisa;
 }
+th
+{
+
+text-align: center;
+font-family: Purisa;
+padding: 15px;
+font-size: 20px;
+}
 table
 {
-border:2px solid black;
+
 }
 body{
-background-color: #d0e4fe;
+background-color: #ffffcc;
 
 }
 
@@ -39,13 +41,21 @@ Menu Ordered
 	<th>Item</th></b>
 </tr>
 <tr>
+	<td></td>
+	<td>Crab Salad</td>	
+</tr>
+<tr>
 	<td>Starter</td>
-	<td>Crab Salad</td>
+	<td>Tomate and Onion Salad</td>
 	
 </tr>
-<td>Starter</td>
+<td></td>
 	<td>Camembert Canape</td>
 	
+</tr>
+<tr>
+	<td>-----------------</td>
+	<td>---------------------------------</td>
 </tr>
 <tr>
 	<td>Entree</td>
